@@ -1,0 +1,4 @@
+esxcli software profile install -p  ESXi-8.0a-20842819-standard -d  /vmfs/volumes/datastore1/VMware-ESXi-8.0a-20842819-depot.zip --ok-to-remove
+
+
+dC_a9w1xm2
